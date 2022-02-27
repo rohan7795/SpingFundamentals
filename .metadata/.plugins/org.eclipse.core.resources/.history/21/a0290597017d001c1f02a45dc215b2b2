@@ -1,0 +1,25 @@
+package com.learn.ittrationst;
+
+public class loops {
+
+	public static void main(String[] args) {
+		
+		int a =10;
+		
+		while(a>=0) {
+			
+			System.out.println(--a);	
+		}
+		
+		while(true) {
+			System.out.println("in loop");
+		}
+		
+		
+		
+		
+		
+		
+	}
+
+}

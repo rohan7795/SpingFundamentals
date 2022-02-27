@@ -1,0 +1,6 @@
+1642144883522	Encapsulate field 'hibernateTemplate'
+1642144995783	Encapsulate field 'customerDao'
+1642145096271	Rename type 'UserServiceImpl'
+1642145119617	Encapsulate field 'customerService'
+1642148400655	Rename resource 'regUser.jsp'
+1642152589825	Rename type 'UserController'

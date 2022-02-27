@@ -1,0 +1,9 @@
+1642080337483	Rename resource 'config.xml'
+1642080352353	Rename resource 'dispatcher-config.xml'
+1642083961725	Encapsulate field 'id'
+1642083965437	Encapsulate field 'name'
+1642083968450	Encapsulate field 'salary'
+1642085949043	Extract local variable 'modelAndView'
+1642148380966	Copy file
+1642189022735	Delete element
+1642189025528	Delete element

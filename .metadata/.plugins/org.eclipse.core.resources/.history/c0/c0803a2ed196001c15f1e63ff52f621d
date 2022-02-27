@@ -1,0 +1,15 @@
+package com.learning.spring.springjavaconfig.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.learning.spring.springjavaconfig.dao.Dao;
+
+public class Service {
+
+	@Autowired
+	public Dao dao;
+
+	public void save() {
+		dao.create();
+	}
+}
